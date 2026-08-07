@@ -1,10 +1,19 @@
-# ✈ Airline Operations Command Center | January 2025
+# ✈ Airline Operations Command Center :Airline Performance Dashboard | January 2025
 
 ## Overview
 
 This interactive Tableau dashboard analyzes airline operational performance for January 2025. The dashboard helps stakeholders monitor flight operations, identify delay trends, evaluate airline performance, and understand the major causes of delays through an executive-level command center.
 
 ---
+## Business Impact
+
+This dashboard enables operations managers and business stakeholders to:
+
+- Monitor airline operational performance using interactive KPIs.
+- Identify airlines with the highest average arrival delays.
+- Analyze the leading causes of operational delays.
+- Track daily flight trends throughout January 2025.
+- Support data-driven decisions to improve operational efficiency.
 
 ## Dashboard Features
 
@@ -29,13 +38,14 @@ This interactive Tableau dashboard analyzes airline operational performance for 
 
 ---
 
-## Tools Used
+## Tools & Technologies
 
 - Tableau Public
+- Tableau Desktop
+- Interactive Dashboards
+- KPI Design
 - Data Visualization
-- Dashboard Design
-- KPI Reporting
-- Interactive Dashboard Actions
+- Business Intelligence
 - Data Analysis
 
 ---
@@ -45,11 +55,11 @@ This interactive Tableau dashboard analyzes airline operational performance for 
 - Dashboard Development
 - Business Intelligence
 - Data Storytelling
-- KPI Design
-- Data Visualization
-- Interactive Filters
+- KPI Development
+- Interactive Dashboard Design
 - Performance Analysis
-
+- Data Visualization
+- Executive Reporting
 ---
 
 ## Dashboard Preview
@@ -73,7 +83,16 @@ Airline Operations Dataset (January 2025)
 
 ## Key Insights
 
-- Carrier Delay and Late Aircraft Delay accounted for the largest share of total delay minutes.
-- On-time performance remained close to 78% during January.
-- Delay patterns varied across airlines and airports.
-- The dashboard enables quick identification of operational bottlenecks.
+- Carrier Delay and Late Aircraft Delay were the largest contributors to total delay minutes.
+- Overall on-time performance remained approximately 78% during January 2025.
+- Several airlines consistently recorded higher average arrival delays than others.
+- Daily flight volumes remained relatively stable throughout the month.
+- The dashboard helps quickly identify operational bottlenecks and delay patterns.
+---
+
+## Future Enhancements
+
+- Add monthly and yearly trend analysis.
+- Include departure delay metrics.
+- Enable airport drill-down analysis.
+- Connect the dashboard to a live data source.
